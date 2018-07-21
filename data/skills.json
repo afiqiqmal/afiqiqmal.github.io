@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Laravel",
+    "percentage" : "85%",
+    "type" : "IT"
+  },
+  {
+    "name" : "CodeIgniter",
+    "percentage" : "60%",
+    "type" : "IT"
+  },
+  {
+    "name" : "Web services API",
+    "percentage" : "80%",
+    "type" : "IT"
+  },
+  {
+    "name" : "Android Java (MVP)",
+    "percentage" : "85%",
+    "type" : "IT"
+  },
+  {
+    "name" : "Android Kotlin",
+    "percentage" : "40%",
+    "type" : "IT"
+  },
+  {
+    "name" : "Bootstrap",
+    "percentage" : "60%",
+    "type" : "IT"
+  },
+  {
+    "name" : "PhotoShop",
+    "percentage" : "60%",
+    "type" : "IT"
+  },
+  {
+    "name" : "Bahasa Melayu",
+    "percentage" : "100%",
+    "type" : "LANG"
+  },
+  {
+    "name" : "English",
+    "percentage" : "70%",
+    "type" : "LANG"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "project_name" : "Air Selangor",
+    "data" : {
+      "images" : [
+        "/assets/img/project/airselangor/airselangor.png",
+        "/assets/img/project/airselangor/airselangor2.png",
+        "/assets/img/project/airselangor/airselangor3.png",
+        "/assets/img/project/airselangor/airselangor4.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> This is an official mobile application from <b>Syarikat Bekalan Air Selangor Sdn Bhd (SYABAS)</b>. It is as another information and complaint channel in order to provide better services to water consumers of Selangor, Kuala Lumpur and Putrajaya, in line with todays' technological advancement in Information Technology and Communication. Any complaint submitted through this application will be received instantly by our SYABAS Consumer Service team, to authenticate its validity and to ensure the complaint will be attended. </div><br><br><div> <h5>Project Involvement</h5> <dl> <dd>- Built an Content Management System + API WebService + ChatBot API</dd> <dd>- Support on Chatbot Module in Android App</dd> <dd>- Support on Custom Layout Part in Android App</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.6</dd> <dd>- Botman for Chatbot</dd> <dd>- Firebase Cloud Messenging for Push Notification</dd> </dl></div>",
+      "web_url": "",
+      "google_play_url" : "https://play.google.com/store/apps/details?id=my.gov.islam.smarthalal",
+      "apple_store_url" : "https://itunes.apple.com/my/app/smarthalal/id1297151262?mt=8"
+    }
+  },
+  {
+    "project_name" : "SmartHalal Jakim",
+    "data" : {
+      "images" : [
+        "/assets/img/project/smarthalal/smarthalal.png",
+        "/assets/img/project/smarthalal/smarthalal2.png",
+        "/assets/img/project/smarthalal/smarthalal3.png",
+        "/assets/img/project/smarthalal/smarthalal4.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>SmartHalal</b> is an application where to enable consumers to check the status of food & beverage products, food premises, slaughterhouses, consumables, cosmetics & pharmaceutical products and halal-certified logistics services by the Malaysian Halal Certification. This app launched by TPM Zahid Hamidi </div><br><div> News Strait Times - <a target=\"_blank\" href=\"https://www.nst.com.my/news/nation/2017/10/292083/malaysia-ramp-initiatives-and-internationalise-halal-concept\"> Launch News</a> </div><br><br><div> <h5>Project Involvement</h5> <dl> <dd>- Take part on Android Development</dd> <dd>- User Manual Training for Jakim Staff</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + RxJava + Retrofit</dd> </dl> </div>",
+      "web_url": "",
+      "google_play_url" : "https://play.google.com/store/apps/details?id=my.gov.islam.smarthalal",
+      "apple_store_url" : "https://itunes.apple.com/my/app/smarthalal/id1297151262?mt=8"
+    }
+  },
+  {
+    "project_name" : "BePunct",
+    "data" : {
+      "images" : [
+        "/assets/img/project/bepunct/bepunct.png",
+        "/assets/img/project/bepunct/bepunct3.png",
+        "/assets/img/project/bepunct/bepunct4.png",
+        "/assets/img/project/bepunct/bepunct5.png",
+        "/assets/img/project/bepunct/bepunct6.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> Employee management made easier. While traditional HR software are static, offline and disconnected, When there is any changes in your employees’ status—new address or new contact—Bepunct automatically makes the change in your systems. Focusing on your company, your business, your success.</div><br><br><div> <h5>Project Involvement</h5> <dl> <dd>- End to End Involvement from BackEnd to FrontEnd and Android Development for Bepunct Staff.</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.4 (BackEnd) , Material Bootstrap (FrontEnd)</dd> <dd>- Android use - Modal View Presenter (MVP) + Dagger + Retrofit + RxJava + Data Binding</dd> <dd>- Firebase Cloud Messenging for Push Notification</dd> </dl></div>",
+      "web_url": "bepunct.teratotech.com",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "GreenTech",
+    "data" : {
+      "images" : [
+        "/assets/img/project/greentech/greentech.png",
+        "/assets/img/project/greentech/greentech2.png",
+        "/assets/img/project/greentech/greentech3.png",
+        "/assets/img/project/greentech/greentech4.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Malaysian Green Technology Corporation (GreenTech Malaysia)</b> is an organisation under the purview of the Ministry of Energy, Green Technology and Water (KeTTHA), charged with catalysing green technology deployment as a strategic engine for socio-economic growth in Malaysia in line with the National Green Technology Policy 2009.</div><br><br><div> <h5>Project Involvement</h5> <dl> <dd>- Build API WebService for existing GreenTech CMS</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Codeigniter 2</dd> </dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "E-Bomba CMS",
+    "data" : {
+      "images" : [
+        "/assets/img/project/ebomba/ebomba.png",
+        "/assets/img/project/ebomba/ebomba2.png",
+        "/assets/img/project/ebomba/ebomba3.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>eBomba.net</b> adalah satu pembaharuan yang dibina bagi memudahkan proses permohonan pemeriksaan bangunan CCC. Sistem ini akan mengurangkan penggunaan kertas dan memaksimumkan serahan dokumen secara atas talian.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Sub Modules</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.5</dd> </dl></div>",
+      "web_url": "app.ebomba.net",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Bikers Buddies",
+    "data" : {
+      "images" : [
+        "/assets/img/project/bikers/bikers.png",
+        "/assets/img/project/bikers/bikers2.png",
+        "/assets/img/project/bikers/bikers3.png",
+        "/assets/img/project/bikers/bikers4.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Bikers Buddies</b> is an app for harley davidson app built for my friend. This is just a working prototype where there are features :- E-commerce, Nearby Location, SOS, events and galleries. </div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Android</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit</dd> </dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "MATRADE Myexport And Trade2Media Android App",
+    "data" : {
+      "images" : [
+        "/assets/img/project/matrade/matrade.png",
+        "/assets/img/project/matrade/matrade2.jpg",
+        "/assets/img/project/matrade/matrade3.jpg",
+        "/assets/img/project/matrade/matrade4.jpg",
+        "/assets/img/project/matrade/matrade5.jpg"
+      ],
+      "description" : "<h5>Project Description</h5><div> The <b>Malaysia External Trade Development Corporation (MATRADE)</b> is Malaysia'snational trade promotion agency. <b>MATRADE’s</b> mobile application allows client to access selected information through the various platform of the mobile devices, in order to enable its client to have an alternative means to access MATRADE information. The target user for <b>MATRADE</b> myExport Mobile Application are Malaysian Exporters registered with <b>MATRADE</b> while for <b>MATRADE</b> Trade2Media Mobile Application are Media Agencies registered with Matrade.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Android for both app.</dd><dd>- Bug fix on Trade2Media and Full Development on MyExport.</dd><dd>- Conduct 3 days training on Android Beginner Level for MATRADE IT Staff.</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit</dd> </dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "ForeSight",
+    "data" : {
+      "images" : [
+        "/assets/img/project/foresight/foresight.png",
+        "/assets/img/project/foresight/foresight2.png",
+        "/assets/img/project/foresight/foresight3.png",
+        "/assets/img/project/foresight/foresight4.png",
+        "/assets/img/project/foresight/foresight5.png",
+        "/assets/img/project/foresight/foresight6.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Foresight App</b> is The Goverment Election Statistic Application where simulate any parties statitic of voters around of Malaysia. Disclose Project and for internal use only.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- 1 Month Project where is very rapid timeline which work remotely at PMO Department</dd><dd>- Build Content Management System (CMS) + API for ForeSight App (iOS Only)</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.5</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Lembaga Lebuhraya Malaysia",
+    "data" : {
+      "images" : [
+        "/assets/img/project/llm/llm.png",
+        "/assets/img/project/llm/llm2.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>The Malaysian Highway Authority </b> is a statutory body under the Malaysian Ministry of Works. The agency was founded on 24 October 1980 by the Highway Authority of Malaysia Act 1980 to monitor the works and administration of expressways.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Involve only the part of enhancement of new UI for LLM with responsive design using Foundation 5 and some functionality</dd><dd>- Involve of Guiding/Training for LLM IT Staff on Developing using CodeIgniter + GIT Code Versioning</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- CodeIgniter 2</dd><dd>- Zurb Foundation + Bootstrap</dd> </dl></div>",
+      "web_url": "http://www.llm.gov.my",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Commission Securities InvestSmart",
+    "data" : {
+      "images" : [
+        "/assets/img/project/investSmart/investSmart.png",
+        "/assets/img/project/investSmart/investSmart2.png",
+        "/assets/img/project/investSmart/investSmart3.png",
+        "/assets/img/project/investSmart/investSmart4.png",
+        "/assets/img/project/investSmart/investSmart5.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Commission Securities InvestSmart</b> where Empowerment initiative that seeks to create more informed investors who are self reliant and able to make investment decisions that are right for them. In developing these programs, the SC/IAC leverages off its observations gleaned from interactions with investors, particularly knowledge relating to behaviors of investors in making decisions in more dynamic content data.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Involved in 1st Phase of Development in Android Application</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit</dd></dl></div>",
+      "web_url": "https://www.investsmartsc.my/",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Dominos Pizza Android for SG and MY",
+    "data" : {
+      "images" : [
+        "/assets/img/project/domino/domino.png",
+        "/assets/img/project/domino/domino2.png",
+        "/assets/img/project/domino/domino3.png",
+        "/assets/img/project/domino/domino4.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> This is the Working Prototype on Development Stage. Timeline is about 5 Month but Unfortunately it had been stop because of Dominos want to focus on Web Development and PWA</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- RnD on Android Implemetation for Massive Custom Layout to fit looklike of Web</dd><dd>- Development Stop after 5 month</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Speech Pre-Processing Tool for Driver Behaviour States Recognition Based on Speech",
+    "data" : {
+      "images" : [
+        "https://image.ibb.co/hitmOR/IMG_20160113_WA0052.jpg",
+        "/assets/img/project/fyp/fyp.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> FYP - Speech analysis for DBS using Matlab Scripting. It is a preprocessing tool where filtering sound, unvoiced, silent and noise various of speech from driver by using 4 type of algorithm: spectral subtraction, zero crossing rate, short term energy and hard code. This tool automate process from multiple test data , automated the filtering process and show the output with percentage. For the future project, will continue to detect Driver Behaviour State (DBS)</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Final Year Project</dd></dl> <br><h5>Architecture</h5> <dl> <dd>- Matlab</dd><dd>- Spectral Subtraction + Zero Crossing Rate and Short Term Energy Algorithm</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Simple Expert System Vacation and Insurance Advisor",
+    "data" : {
+      "images" : [],
+      "description" : "<h5>Project Description</h5><div> Project in Class where need to build a expert system. This system receive the input from the user and based on user's input, the system calculate the best option for vacation places and insurances packages. Nothing much algorithm use. Just a bulk of logic if else statement.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Group Project</dd></dl> <br><h5>Architecture</h5> <dl> <dd>- C++ and Prolog UI</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Responsive Hybrid Mobile for Simple Retails Goods Price Viewer",
+    "data" : {
+      "images" : [],
+      "description" : "<h5>Project Description</h5><div> Simple App build using Jquery Mobile in Dreamweaver for class project</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Group Project</dd></dl> <br><h5>Architecture</h5> <dl> <dd>- HTML5 + Jquery + Bootstrap</dd><dd>- PHP + Mysql</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "Retail Management System + Mobile Barcode Scanner",
+    "data" : {
+      "images" : [],
+      "description" : "<h5>Project Description</h5><div> This project is class project build using bootstrap framework and PHP (No Framework). For the mobile scanner use simple Android app scanner integrate with the javascript to send barcode from mobile to web</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Group Project</dd></dl> <br><h5>Architecture</h5> <dl> <dd>- HTML5 + Jquery + Bootstrap</dd><dd>- PHP + Mysql</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  }
+]
