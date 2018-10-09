@@ -1,5 +1,36 @@
 [
   {
+    "project_name" : "Commission Securities InvestSmart Phase 3 (2018)",
+    "data" : {
+      "images" : [
+        "/assets/img/project/investSmart/investSmart6.png",
+        "/assets/img/project/investSmart/investSmart7.png",
+        "/assets/img/project/investSmart/investSmart8.png",
+        "/assets/img/project/investSmart/investSmart9.png",
+        "/assets/img/project/investSmart/investSmart10.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Commission Securities InvestSmart</b> where Empowerment initiative that seeks to create more informed investors who are self reliant and able to make investment decisions that are right for them. In developing these programs, the SC/IAC leverages off its observations gleaned from interactions with investors, particularly knowledge relating to behaviors of investors in making decisions in more dynamic content data.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Involved in 3st Phase of Development in Android Application</dd> <dd>- Total Revamp Interface with new Trend Style</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit + Data Binding</dd></dl></div>",
+      "web_url": "https://www.investsmartsc.my/",
+      "google_play_url" : "https://play.google.com/store/apps/details?id=com.openwave.scam.alert&hl=en",
+      "apple_store_url" : "https://itunes.apple.com/my/app/investsmart/id773076612?mt=8"
+    }
+  }, {
+    "project_name" : "Kumpulan Wang Pesara (KWAP)",
+    "data" : {
+      "images" : [
+        "/assets/img/project/kwap/kwap.png",
+        "/assets/img/project/kwap/kwap2.png",
+        "/assets/img/project/kwap/kwap3.png",
+        "/assets/img/project/kwap/kwap4.png",
+        "/assets/img/project/kwap/kwap5.png",
+        "/assets/img/project/kwap/kwap6.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> MyPesara adalah hasil inisiatif daripada jalinan kerjasama antara KWAP, Bahagian Pasca Perkhidmatan, Jabatan Perkhidmatan Awam (JPA) dan Strategi Lautan Biru Kebangsaan (NBOS). </div><br><br><div> <h5>Project Involvement</h5> <dl> <dd>- Revamp 95% Current CMS + Migration + API </dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.4</dd> <dd>- Botman for Chatbot</dd> <dd>- Firebase Cloud Messenging for Push Notification</dd> </dl></div>",
+      "web_url": "",
+      "google_play_url" : "https://play.google.com/store/apps/details?id=my.gov.islam.smarthalal",
+      "apple_store_url" : "https://itunes.apple.com/my/app/smarthalal/id1297151262?mt=8"
+    }
+  }, {
     "project_name" : "Air Selangor",
     "data" : {
       "images" : [
@@ -116,7 +147,7 @@
         "/assets/img/project/foresight/foresight5.png",
         "/assets/img/project/foresight/foresight6.png"
       ],
-      "description" : "<h5>Project Description</h5><div> <b>Foresight App</b> is The Goverment Election Statistic Application where simulate any parties statitic of voters around of Malaysia. Disclose Project and for internal use only.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- 1 Month Project where is very rapid timeline which work remotely at PMO Department</dd><dd>- Build Content Management System (CMS) + API for ForeSight App (iOS Only)</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.5</dd></dl></div>",
+      "description" : "<h5>Project Description</h5><div> <b>Foresight App</b> is The Goverment Election Statistic Application where simulate any parties statitic of voters around of Malaysia. Disclose Project and for internal use only.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- 1 Month Project where is very rapid timeline which work remotely at PMO Department</dd><dd>- Build Content Management System (CMS) + API for ForeSight</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel 5.5</dd></dl></div>",
       "web_url": "",
       "google_play_url" : "",
       "apple_store_url" : ""
@@ -136,7 +167,7 @@
     }
   },
   {
-    "project_name" : "Commission Securities InvestSmart",
+    "project_name" : "Commission Securities InvestSmart Phase 1 (2016)",
     "data" : {
       "images" : [
         "/assets/img/project/investSmart/investSmart.png",
@@ -145,10 +176,10 @@
         "/assets/img/project/investSmart/investSmart4.png",
         "/assets/img/project/investSmart/investSmart5.png"
       ],
-      "description" : "<h5>Project Description</h5><div> <b>Commission Securities InvestSmart</b> where Empowerment initiative that seeks to create more informed investors who are self reliant and able to make investment decisions that are right for them. In developing these programs, the SC/IAC leverages off its observations gleaned from interactions with investors, particularly knowledge relating to behaviors of investors in making decisions in more dynamic content data.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Involved in 1st Phase of Development in Android Application</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit</dd></dl></div>",
+      "description" : "<h5>Project Description</h5><div> <b>Commission Securities InvestSmart</b> where Empowerment initiative that seeks to create more informed investors who are self reliant and able to make investment decisions that are right for them. In developing these programs, the SC/IAC leverages off its observations gleaned from interactions with investors, particularly knowledge relating to behaviors of investors in making decisions in more dynamic content data.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Involved in 1st Phase of Development in Android Application</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Dagger + Rxjava + Retrofit</dd></dl></div>",
       "web_url": "https://www.investsmartsc.my/",
-      "google_play_url" : "",
-      "apple_store_url" : ""
+      "google_play_url" : "https://play.google.com/store/apps/details?id=com.openwave.scam.alert&hl=en",
+      "apple_store_url" : "https://itunes.apple.com/my/app/investsmart/id773076612?mt=8"
     }
   },
   {
