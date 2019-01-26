@@ -1,5 +1,22 @@
 [
   {
+    "project_name" : "Undangan.MY",
+    "data" : {
+      "images" : [
+        "/assets/img/project/undangan/undangan1.png",
+        "/assets/img/project/undangan/undangan2.png",
+        "/assets/img/project/undangan/undangan3.png",
+        "/assets/img/project/undangan/undangan4.png",
+        "/assets/img/project/undangan/undangan5.png",
+        "/assets/img/project/undangan/undangan6.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>Undangan.MY</b> is a Digital Invitation Card of Kretivco MediaWorks.</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- End to End Development</dd> <dd>- Payment Gateway (Billplz for now)</dd> <dd>- Build CMS</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Laravel</dd><dd>- Digital Ocean</dd><dd>- AWS Storage S3</dd><dd>- Mailgun Provider</dd></dl></div>",
+      "web_url": "https://undangan.my/",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
     "project_name" : "Commission Securities InvestSmart Phase 3 (2018)",
     "data" : {
       "images" : [
@@ -14,8 +31,9 @@
       "google_play_url" : "https://play.google.com/store/apps/details?id=com.openwave.scam.alert&hl=en",
       "apple_store_url" : "https://itunes.apple.com/my/app/investsmart/id773076612?mt=8"
     }
-  }, {
-    "project_name" : "Kumpulan Wang Pesara (KWAP)",
+  },
+  {
+    "project_name" : "MyPesara Kumpulan Wang Pesara (KWAP)",
     "data" : {
       "images" : [
         "/assets/img/project/kwap/kwap.png",
@@ -30,7 +48,8 @@
       "google_play_url" : "https://play.google.com/store/apps/details?id=my.gov.islam.smarthalal",
       "apple_store_url" : "https://itunes.apple.com/my/app/smarthalal/id1297151262?mt=8"
     }
-  }, {
+  },
+  {
     "project_name" : "Air Selangor",
     "data" : {
       "images" : [
