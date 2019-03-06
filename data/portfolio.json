@@ -17,6 +17,38 @@
     }
   },
   {
+    "project_name" : "SmartHadith Jakim Android App ",
+    "data" : {
+      "images" : [
+        "/assets/img/project/hadith/hadith1.png",
+        "/assets/img/project/hadith/hadith2.png",
+        "/assets/img/project/hadith/hadith3.png",
+        "/assets/img/project/hadith/hadith4.png",
+        "/assets/img/project/hadith/hadith5.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>SmartHadith Jakim Android App </b> Aplikasi ini dibangunkan dengan kerjasama antara Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC) dan Jabatan Kemajuan Islam Malaysia (JAKIM). Ia merupakan satu platform yang mudah digunakan dan mesra pengguna bagi mendapatkan hadith yang sahih. Terdapat pelbagai koleksi hadith berdasarkan kitab, bab, perawi dan lain-lain lagi. </div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Android Development</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit + Data Binding</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
+    "project_name" : "PIDM Android App (Prototype)",
+    "data" : {
+      "images" : [
+        "/assets/img/project/pidm/pidm1.png",
+        "/assets/img/project/pidm/pidm2.png",
+        "/assets/img/project/pidm/pidm3.png",
+        "/assets/img/project/pidm/pidm4.png",
+        "/assets/img/project/pidm/pidm5.png"
+      ],
+      "description" : "<h5>Project Description</h5><div> <b>PIDM</b> Perbadanan Insurans Deposit Malaysia (PIDM) is a Government agency established in 2005 under Akta Perbadanan Insurans Deposit Malaysia (Akta PIDM). This Project is covered only in prototype phase only</div><br><br><div> <h5>Project Involvement</h5><dl> <dd>- Android Development</dd> </dl> <br><h5>Architecture</h5> <dl> <dd>- Modal View Presenter (MVP) + Dagger + Rxjava + Retrofit + Data Binding</dd></dl></div>",
+      "web_url": "",
+      "google_play_url" : "",
+      "apple_store_url" : ""
+    }
+  },
+  {
     "project_name" : "Commission Securities InvestSmart Phase 3 (2018)",
     "data" : {
       "images" : [
